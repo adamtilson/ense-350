@@ -107,7 +107,7 @@ Let's work through an example of the following two algorithms:
 
 ## Assignment
 
-- complete the notebook in examples/assn
+- complete the notebook `assn-starter.ipynb`
 - Part 1: Complete the function `gcd` which computes the gcd of two numbers.
 - Part 2: Solve the problem in the notebook
 - Part 3: Complete the function `pulverizer` which implements the extended euclidean algorithm, computes the gcd of two numbers, and additionally returns the integers s and t which satisfy the condition sa + tb = gcd(a, b).
