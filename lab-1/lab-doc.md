@@ -8,7 +8,9 @@
 ### Faculty of Engineering and Applied Science - Software Systems Engineering
 
 ### Lab Instructor: [Adam Tilson](mailto:Adam.Tilson@uregina.ca)
+
 </center>
+
 ---
 
 ## Introduction
