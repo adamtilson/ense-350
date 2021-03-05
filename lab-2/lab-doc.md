@@ -14,7 +14,7 @@
 
 ## Introduction
 
-In this lab we will be implementing the RSA Algorithm. This is a public key encryption method in which a sender can encrypt a message using a public key, and the reciever can decrypt the message using a private key. We will work through a complete example together of the system, and also look at some object-oriented programming in python, exception handling and working with lists.
+In this lab we will be implementing the RSA Algorithm. This is a public key encryption method in which a sender can encrypt a message using a public key, and the receiver can decrypt the message using a private key. We will work through a complete example together of the system, and also look at some object-oriented programming in python, exception handling and working with lists.
 
 ## Example Notebook
 
@@ -33,7 +33,7 @@ Let's do a full example of RSA
  
 - Part 1: Add some utility classes from Lab 1
 - Part 2: Implement the RSA Key Generator
-- Part 3: Implement the Sender (Encrypt) and Reciever (Decrypt) classes
+- Part 3: Implement the Sender (Encrypt) and Receiver (Decrypt) classes
 - Part 4: Test the algorithm on a real world encryption and decryption task
 
 You are not allowed to use any libraries outside of core Python 3, e.g. numpy. You are also not allowed to use the `pow` function in your final code, though you can use it for testing to help debug errors. 
