@@ -29,9 +29,12 @@ In this lab we will look at LU Decomposition. All work will be done in the noteb
 ## Assignment
 
 - complete the assignment notebook
-- Part 1: Complete the polynomial class, including all three root solvers
-- Part 2: Benchmark the root solvers and find the roots of a new polynomial
-- Part 3: Solve a real world problem
+- 
+- Part 1: Implement the Matrix class which will implement:
+  - LU Decomposition
+  - Finding the determinant of the matrix
+  - Solving a system of linear equations
+- Part 2: Use your Matrix class to solve a system of linear equations 
 
 ## Submission
 
