@@ -29,7 +29,6 @@ In this lab we will look at LU Decomposition. All work will be done in the noteb
 ## Assignment
 
 - complete the assignment notebook
-- 
 - Part 1: Implement the Matrix class which will implement:
   - LU Decomposition
   - Finding the determinant of the matrix
